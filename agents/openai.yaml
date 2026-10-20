@@ -1,0 +1,4 @@
+interface:
+  display_name: "把话说清楚"
+  short_description: "直接表达观点，清理防御性套话，使用自然、具体且信息完整的中文。"
+  default_prompt: "请使用 $write-like-cn-human 撰写或修改下面的内容，直接表达观点，保留完整信息，使用自然的中文。"
