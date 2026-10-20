@@ -1,4 +1,6 @@
-# 把话说清楚
+# Codex，你不妨把话说得更清楚一点
+
+*“Codex有一个好，用户提了一个需求，写得比西方记者都快。但是写出来的东西啊，都too young too simple， sometimes naive!”*
 
 `write-like-cn-human` 是一份中文写作 skill，帮助 agent 直接表达观点，用自然、完整的中文说明谁在做什么、涉及什么对象，以及得到什么结果。适用于日常答复、解释、方案、报告和文案。
 
